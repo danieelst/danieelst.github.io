@@ -1,0 +1,74 @@
+:root {
+  --primary: rgb(2, 25, 1);
+  --secondary: rgb(231, 255, 232);
+}
+
+* {
+  font-family: Segoe UI;
+  font-weight: 100;
+  color: var(--primary);
+}
+
+body {
+  background-color: var(--secondary);
+  padding-bottom: 20px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: var(--primary);
+  color: var(--secondary);
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 80px;
+  margin: 10px;
+  margin-top: 10%;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+  margin-top: 20px;
+}
+
+img {
+  border-radius: 50%;
+}
+
+svg {
+  width: 32px;
+  height: 32px;
+}
+
+path {
+  fill: var(--primary);
+}
+
+span {
+  font-weight: 600;
+}
+
+.block {
+  display: inline-block;
+  margin: 10px;
+}
+
+.papers {
+  text-align: left;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+p {
+  font-weight: 600;
+  margin: 0;
+}

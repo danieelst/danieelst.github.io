@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Updates on stribrand.se</title>
+    <link>https://stribrand.se/</link>
+    <description>Papers written by me</description>
+    <item>
+      <title>Regression vs Classification of numbers: an example with chess</title>
+      <link>https://stribrand.se/rss-wrappers/regression-vs-classification-in-chess.html</link>
+      <description>A short paper on the difference between regression and classification of numbers</description>
+    </item>
+    <item>
+      <title>Octalang: specification</title>
+      <link>https://stribrand.se/rss-wrappers/octalang.html</link>
+      <description>Specification of my con-lang Octalang</description>
+    </item>
+    <item>
+      <title>Semantic verification of multilingual texts</title>
+      <link>https://stribrand.se/rss-wrappers/mthesis.html</link>
+      <description>My master's thesis</description>
+    </item>
+    <item>
+      <title>Unsupervised machine learning used for anomaly detection in x-ray images</title>
+      <link>https://stribrand.se/rss-wrappers/bthesis.html</link>
+      <description>My bachelor's thesis</description>
+    </item>
+  </channel>
+</rss>
