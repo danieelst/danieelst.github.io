@@ -1,10 +1,6 @@
-My personal website: used mostly for giving a short tidbit of myself and displaying some links.
+# My personal website
 
 Simply made with HTML/CSS and hosted with GitHub Pages.
-
-### RSS feed
-
-Subscribe to `https://stribrand.se/index.xml`. The feed links to HTML files referencing various papers by me.
 
 ### Run locally
 
