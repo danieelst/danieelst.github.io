@@ -1,6 +1,6 @@
 :root {
-  --primary: rgb(20, 105, 60);
-  --secondary: rgb(255, 255, 245);
+  --primary: rgb(180, 95, 15);
+  --secondary: rgb(0, 4, 4);
 }
 
 * {
@@ -12,24 +12,6 @@
 body {
   background-color: var(--secondary);
   text-align: center;
-}
-
-header {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  background-color: var(--primary);
-}
-
-footer {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background-color: var(--primary);
-  color: var(--secondary);
-  font-size: 16px;
 }
 
 h1 {
@@ -46,7 +28,7 @@ h3 {
 
 img {
   border-radius: 50%;
-  filter: sepia(40%);
+  filter: sepia(100%) contrast(150%);
   width: 10%;
   min-width: 190px;
 }
