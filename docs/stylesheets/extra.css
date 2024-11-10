@@ -1,3 +1,8 @@
+div.md-header__title {
+    font-size: 14px;
+    font-weight: bold;
+}
+
 article.md-post--excerpt p, article.md-post--excerpt nav {
     display: none;
 }
