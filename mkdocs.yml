@@ -1,7 +1,6 @@
 site_name: danieelst.github.io
 site_description: My blog
 site_url: http://danieelst.github.io
-header_title: © 2024 Daniel Stribrand
 
 theme:
   name: material
