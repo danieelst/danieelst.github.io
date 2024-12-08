@@ -4,10 +4,9 @@ title: About
 
 # The author
 
-Hello, my name is Daniel and I am a computer scientist working in the aerospace industry.
+Hello, my name is Daniel Stribrand and I am a computer scientist working in the aerospace industry.
 
-On this page you will find posts about various things to my interests: data science, technology,
-running, reading, and what else strikes my liking.
+You can find more on [stribrand.se](https://stribrand.se/).
 
 # This website
 
