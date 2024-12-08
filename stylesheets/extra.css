@@ -1,0 +1,28 @@
+div.md-header__title {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+article.md-post--excerpt p, article.md-post--excerpt nav {
+    display: none;
+}
+
+a.toclink {
+    color: black !important;
+    text-decoration: underline;
+}
+
+footer.md-footer {
+    color: black;
+    background-color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: black !important;
+    margin-bottom: 0 !important;
+}
+
+svg {
+    width: 20px;
+    height: 20px;
+}
